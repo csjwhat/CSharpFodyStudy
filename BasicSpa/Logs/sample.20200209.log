@@ -103,3 +103,15 @@
 2020-02-09 20:44:42,186[6] DEBUG - OnEnter -> HomeController About 
 2020-02-09 20:44:42,186[6] DEBUG - クラス内に書いたログ - HomeController About
 2020-02-09 20:44:42,186[6] DEBUG - OnExit -> HomeController About
+2020-02-09 21:17:39,589[6] DEBUG - OnEnter -> HomeController Index 
+2020-02-09 21:17:39,609[6] DEBUG - クラス内に書いたログ - HomeController Index
+2020-02-09 21:17:39,609[6] DEBUG - コンストラクタの扱いを以下でテスト
+2020-02-09 21:17:39,610[6] DEBUG - OnEnter -> TestConstructor setWords 
+2020-02-09 21:17:39,610[6] DEBUG - OnExit -> TestConstructor setWords
+2020-02-09 21:17:39,618[6] DEBUG - OnExit -> HomeController Index
+2020-02-09 21:18:37,398[6] DEBUG - OnEnter -> HomeController About 
+2020-02-09 21:18:37,398[6] DEBUG - クラス内に書いたログ - HomeController About
+2020-02-09 21:18:37,398[6] DEBUG - OnExit -> HomeController About
+2020-02-09 21:18:39,142[12] DEBUG - OnEnter -> HomeController About 
+2020-02-09 21:18:39,143[12] DEBUG - クラス内に書いたログ - HomeController About
+2020-02-09 21:18:39,143[12] DEBUG - OnExit -> HomeController About
