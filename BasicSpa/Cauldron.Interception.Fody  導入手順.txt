@@ -1,0 +1,36 @@
+●Fodyを利用した開始・終了ログの実現
+
+Fodyはビルド時に作成されるILコードを操作するツールらしいです。
+
+＜参考（サイト）＞
+https://github.com/Fody/Home
+
+メソッドの開始・終了箇所にコードを挟んでくれる以下のアドオンを使います。
+Cauldron.Interception.Fody 
+
+＜制限事項＞
+・コンストラクタはロガーが取得できない模様。
+・ライセンスは MIT Licence 取り扱いは https://wisdommingle.com/mit-license/ 参照
+
+＜手順＞
+1.NuGetで以下のパッケージをインストール
+
+★Cauldron.Interception.Fody （バージョン 2.0.29）
+
+　　最新版はわたくしの環境（.Net4.6、VS2017)で動かないようだったので、
+　　バージョンを落としています。※ コンパイラを .Net4.6.1にしてもダメでした。
+　　インストール時に、一緒にFody 2.3.3がインストールされます。
+
+2.Fodyの設定ファイル「FodyWeavers.xml」をプロジェクトのルートフォルダに配置する。
+
+　このファイルに、Fodyのアドオンを書いておかないと、
+　Cauldron.Interception アドオンが有効になりません。
+
+3.プロジェクトにAutoLoggerフォルダを作成し、LoggerAttribute.csファイルを配置する。
+
+4.ログを出力したい各クラス・メソッドに、アノテーション[Logger]をつける。
+　using でAutoLoggerを参照させる。
+
+※ なお、このサンプルではLog4Net 2.0.8をインストールして、
+　 Web.ConfigとGlobal.asax.csにLog4netの設定を追記してます。
+

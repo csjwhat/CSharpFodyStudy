@@ -1,0 +1,105 @@
+2020-02-09 20:31:10,793[6] DEBUG - OnEnter -> HomeController Index 
+2020-02-09 20:31:10,802[6] DEBUG - クラス内に書いたログ - HomeController Index
+2020-02-09 20:31:10,803[6] DEBUG - コンストラクタの扱いを以下でテスト
+2020-02-09 20:31:10,803[6] DEBUG - OnEnter -> TestConstructor setWords 
+2020-02-09 20:31:10,803[6] DEBUG - OnExit -> TestConstructor setWords
+2020-02-09 20:31:10,806[6] DEBUG - OnExit -> HomeController Index
+2020-02-09 20:31:29,648[6] DEBUG - OnEnter -> ProductsController NewItem 
+2020-02-09 20:31:29,648[6] DEBUG - クラス内に書いたログ - NewItem
+2020-02-09 20:31:29,649[6] DEBUG - OnExit -> ProductsController NewItem
+2020-02-09 20:31:30,290[10] DEBUG - OnEnter -> HomeController About 
+2020-02-09 20:31:30,290[10] DEBUG - クラス内に書いたログ - HomeController About
+2020-02-09 20:31:30,290[10] DEBUG - OnExit -> HomeController About
+2020-02-09 20:31:31,410[12] DEBUG - OnEnter -> ProductsController NewItem 
+2020-02-09 20:31:31,410[12] DEBUG - クラス内に書いたログ - NewItem
+2020-02-09 20:31:31,410[12] DEBUG - OnExit -> ProductsController NewItem
+2020-02-09 20:31:32,012[10] DEBUG - OnEnter -> ProductsController Index 
+2020-02-09 20:31:32,012[10] DEBUG - クラス内に書いたログ - Index
+2020-02-09 20:31:32,012[10] DEBUG - OnExit -> ProductsController Index
+2020-02-09 20:33:54,756[6] DEBUG - OnEnter -> HomeController Index 
+2020-02-09 20:33:54,773[6] DEBUG - クラス内に書いたログ - HomeController Index
+2020-02-09 20:33:54,773[6] DEBUG - コンストラクタの扱いを以下でテスト
+2020-02-09 20:33:54,773[6] DEBUG - OnEnter -> TestConstructor setWords 
+2020-02-09 20:33:54,773[6] DEBUG - OnExit -> TestConstructor setWords
+2020-02-09 20:33:54,778[6] DEBUG - OnExit -> HomeController Index
+2020-02-09 20:34:01,554[6] DEBUG - OnEnter -> ProductsController Index 
+2020-02-09 20:34:01,554[6] DEBUG - クラス内に書いたログ - Index
+2020-02-09 20:34:01,554[6] DEBUG - OnExit -> ProductsController Index
+2020-02-09 20:34:03,850[6] DEBUG - OnEnter -> ProductsController NewItem 
+2020-02-09 20:34:03,850[6] DEBUG - クラス内に書いたログ - NewItem
+2020-02-09 20:34:03,850[6] DEBUG - OnExit -> ProductsController NewItem
+2020-02-09 20:34:05,881[6] DEBUG - OnEnter -> ProductsController Index 
+2020-02-09 20:34:05,881[6] DEBUG - クラス内に書いたログ - Index
+2020-02-09 20:34:05,881[6] DEBUG - OnExit -> ProductsController Index
+2020-02-09 20:34:06,474[7] DEBUG - OnEnter -> HomeController Index 
+2020-02-09 20:34:06,474[7] DEBUG - クラス内に書いたログ - HomeController Index
+2020-02-09 20:34:06,475[7] DEBUG - コンストラクタの扱いを以下でテスト
+2020-02-09 20:34:06,475[7] DEBUG - OnEnter -> TestConstructor setWords 
+2020-02-09 20:34:06,475[7] DEBUG - OnExit -> TestConstructor setWords
+2020-02-09 20:34:06,475[7] DEBUG - OnExit -> HomeController Index
+2020-02-09 20:34:09,089[6] DEBUG - OnEnter -> HomeController About 
+2020-02-09 20:34:09,089[6] DEBUG - クラス内に書いたログ - HomeController About
+2020-02-09 20:34:09,089[6] DEBUG - OnExit -> HomeController About
+2020-02-09 20:34:10,867[7] DEBUG - OnEnter -> HomeController About 
+2020-02-09 20:34:10,867[7] DEBUG - クラス内に書いたログ - HomeController About
+2020-02-09 20:34:10,867[7] DEBUG - OnExit -> HomeController About
+2020-02-09 20:34:11,597[6] DEBUG - OnEnter -> HomeController About 
+2020-02-09 20:34:11,597[6] DEBUG - クラス内に書いたログ - HomeController About
+2020-02-09 20:34:11,597[6] DEBUG - OnExit -> HomeController About
+2020-02-09 20:34:12,103[9] DEBUG - OnEnter -> HomeController About 
+2020-02-09 20:34:12,103[9] DEBUG - クラス内に書いたログ - HomeController About
+2020-02-09 20:34:12,103[9] DEBUG - OnExit -> HomeController About
+2020-02-09 20:34:13,593[6] DEBUG - OnEnter -> ProductsController NewItem 
+2020-02-09 20:34:13,593[6] DEBUG - クラス内に書いたログ - NewItem
+2020-02-09 20:34:13,593[6] DEBUG - OnExit -> ProductsController NewItem
+2020-02-09 20:34:14,110[9] DEBUG - OnEnter -> ProductsController NewItem 
+2020-02-09 20:34:14,111[9] DEBUG - クラス内に書いたログ - NewItem
+2020-02-09 20:34:14,111[9] DEBUG - OnExit -> ProductsController NewItem
+2020-02-09 20:34:14,760[6] DEBUG - OnEnter -> ProductsController NewItem 
+2020-02-09 20:34:14,760[6] DEBUG - クラス内に書いたログ - NewItem
+2020-02-09 20:34:14,760[6] DEBUG - OnExit -> ProductsController NewItem
+2020-02-09 20:39:06,011[5] DEBUG - OnEnter -> HomeController Index 
+2020-02-09 20:39:06,029[5] DEBUG - クラス内に書いたログ - HomeController Index
+2020-02-09 20:39:06,029[5] DEBUG - コンストラクタの扱いを以下でテスト
+2020-02-09 20:39:06,030[5] DEBUG - OnEnter -> TestConstructor setWords 
+2020-02-09 20:39:06,030[5] DEBUG - OnExit -> TestConstructor setWords
+2020-02-09 20:39:06,036[5] DEBUG - OnExit -> HomeController Index
+2020-02-09 20:39:22,102[5] DEBUG - OnEnter -> ProductsController Index 
+2020-02-09 20:39:22,102[5] DEBUG - クラス内に書いたログ - Index
+2020-02-09 20:39:22,102[5] DEBUG - OnExit -> ProductsController Index
+2020-02-09 20:39:24,811[8] DEBUG - OnEnter -> ProductsController Index 
+2020-02-09 20:39:24,811[8] DEBUG - クラス内に書いたログ - Index
+2020-02-09 20:39:24,811[8] DEBUG - OnExit -> ProductsController Index
+2020-02-09 20:39:34,647[6] DEBUG - OnEnter -> ProductsController NewItem 
+2020-02-09 20:39:34,647[6] DEBUG - クラス内に書いたログ - NewItem
+2020-02-09 20:39:34,647[6] DEBUG - OnExit -> ProductsController NewItem
+2020-02-09 20:39:36,120[5] DEBUG - OnEnter -> HomeController About 
+2020-02-09 20:39:36,120[5] DEBUG - クラス内に書いたログ - HomeController About
+2020-02-09 20:39:36,120[5] DEBUG - OnExit -> HomeController About
+2020-02-09 20:39:36,995[10] DEBUG - OnEnter -> ProductsController Index 
+2020-02-09 20:39:36,995[10] DEBUG - クラス内に書いたログ - Index
+2020-02-09 20:39:36,995[10] DEBUG - OnExit -> ProductsController Index
+2020-02-09 20:39:40,889[5] DEBUG - OnEnter -> ProductsController Index 
+2020-02-09 20:39:40,889[5] DEBUG - クラス内に書いたログ - Index
+2020-02-09 20:39:40,889[5] DEBUG - OnExit -> ProductsController Index
+2020-02-09 20:40:01,338[7] DEBUG - OnEnter -> HomeController About 
+2020-02-09 20:40:01,338[7] DEBUG - クラス内に書いたログ - HomeController About
+2020-02-09 20:40:01,338[7] DEBUG - OnExit -> HomeController About
+2020-02-09 20:40:02,395[10] DEBUG - OnEnter -> ProductsController NewItem 
+2020-02-09 20:40:02,395[10] DEBUG - クラス内に書いたログ - NewItem
+2020-02-09 20:40:02,395[10] DEBUG - OnExit -> ProductsController NewItem
+2020-02-09 20:44:31,675[6] DEBUG - OnEnter -> HomeController Index 
+2020-02-09 20:44:31,699[6] DEBUG - クラス内に書いたログ - HomeController Index
+2020-02-09 20:44:31,699[6] DEBUG - コンストラクタの扱いを以下でテスト
+2020-02-09 20:44:31,700[6] DEBUG - OnEnter -> TestConstructor setWords 
+2020-02-09 20:44:31,700[6] DEBUG - OnExit -> TestConstructor setWords
+2020-02-09 20:44:31,710[6] DEBUG - OnExit -> HomeController Index
+2020-02-09 20:44:39,322[6] DEBUG - OnEnter -> ProductsController Index 
+2020-02-09 20:44:39,322[6] DEBUG - クラス内に書いたログ - Index
+2020-02-09 20:44:39,322[6] DEBUG - OnExit -> ProductsController Index
+2020-02-09 20:44:41,362[7] DEBUG - OnEnter -> ProductsController NewItem 
+2020-02-09 20:44:41,362[7] DEBUG - クラス内に書いたログ - NewItem
+2020-02-09 20:44:41,362[7] DEBUG - OnExit -> ProductsController NewItem
+2020-02-09 20:44:42,186[6] DEBUG - OnEnter -> HomeController About 
+2020-02-09 20:44:42,186[6] DEBUG - クラス内に書いたログ - HomeController About
+2020-02-09 20:44:42,186[6] DEBUG - OnExit -> HomeController About
